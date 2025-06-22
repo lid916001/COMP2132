@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Hangman Game</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="hangman">
+        <h1>Hangman Game</h1>
+        <section class="hangman__main">
+            <div class="hangman__image">
+                <img src="images/hangman-0.png" alt="Hangman" id="hangmanImage">
+            </div>
+            <div id="score" aria-live="polite"></div>
+            <div class="hangman__word-area">
+                <div id="word"></div>
+                <p id="hintText"></p>
+            </div>
+            <div class="hangman__letters" aria-label="Letter choices" role="group"></div>
+            <div class="hangman__status">
+                <p id="statusMessage" aria-live="polite"></p>
+                <button id="restartBtn" class="is-hidden" aria-label="Play Again">Play Again</button>
+            </div>
+        </section>
+    </div>
+    <script src="js/game.js"></script>
+</body>
+</html>

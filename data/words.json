@@ -1,0 +1,52 @@
+{
+    "words": [
+        {
+            "word": "JAVASCRIPT",
+            "hint": "A popular programming language for web development"
+        },
+        {
+            "word": "PYTHON",
+            "hint": "A snake-named programming language"
+        },
+        {
+            "word": "DATABASE",
+            "hint": "A structured collection of data"
+        },
+        {
+            "word": "ALGORITHM",
+            "hint": "A step-by-step procedure for solving a problem"
+        },
+        {
+            "word": "NETWORK",
+            "hint": "A system of interconnected computers"
+        },
+        {
+            "word": "INTERFACE",
+            "hint": "A point where two systems meet and interact"
+        },
+        {
+            "word": "OBJECT ORIENTED",
+            "hint": "A programming paradigm based on objects and classes"
+        },
+        {
+            "word": "RECURSION",
+            "hint": "A function that calls itself"
+        },
+        {
+            "word": "COMPILER",
+            "hint": "A program that translates code into machine language"
+        },
+        {
+            "word": "ASYNC",
+            "hint": "A type of programming for non-blocking operations"
+        },
+        {
+            "word": "VARIABLE",
+            "hint": "A named storage for data in programming"
+        },
+        {
+            "word": "FUNCTION",
+            "hint": "A reusable block of code that performs a task"
+        }
+    ]
+}
